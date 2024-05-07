@@ -3,9 +3,9 @@ const CONFIG = {
   profile: {
     name: "morethanmin",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    role: "Aspiring System/Cloud Engineer",
     bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
+    email: "ericdennis11@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
     instagram: "",
